@@ -205,3 +205,13 @@ ol li {
     padding: 20px 30px;
   }
 }
+
+@media (width <= 500px) {
+  .detail {
+    font-size: 14px;
+  }
+
+  ol li {
+    font-size: 14px;
+  }
+}
