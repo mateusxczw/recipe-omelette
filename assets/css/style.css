@@ -31,6 +31,7 @@ ul {
 
 body {
   font-family: "outfit";
+  background: var(--eggshell);
 }
 
 img {
@@ -40,8 +41,6 @@ img {
 }
 
 .recipe {
-  height: 100vh;
-  background: var(--eggshell);
   display: flex;
   padding-top: 40px;
   justify-content: center;
