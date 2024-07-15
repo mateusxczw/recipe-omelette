@@ -40,7 +40,7 @@ img {
 }
 
 .recipe {
-  height: 100%;
+  height: 100vh;
   background: var(--eggshell);
   display: flex;
   padding-top: 40px;
